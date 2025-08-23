@@ -6,7 +6,11 @@ export default function Home() {
   const { loading, recipeList } = useContext(GlobalContext);
 
   if (loading) {
-    return <div>Loading... Please Wait...</div>;
+    return (
+      <div className="lg:text-4xl text-xl text-center text-black font-extrabold">
+        Loading...
+      </div>
+    );
   }
   return (
     <div className="py-8 container mx-auto flex flex-wrap justify-center gap-10">

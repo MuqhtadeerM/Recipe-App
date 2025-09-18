@@ -18,7 +18,7 @@ A modern and responsive Recipe App built with React and Vite. Easily browse, sea
 ## 🚀 Live Demo
 
 Check out the live version here:  
-[https://recipe-app-three-zeta.vercel.app/](https://recipe-app-three-zeta.vercel.app/)
+[https://recipe-app-three-zeta.vercel.app/](https://recipe-app-rho-inky.vercel.app/)
 
 ## Technologies Used
 
